@@ -1,0 +1,11 @@
+{
+  "name": "more_webapp_search_docker",
+  "version": "1.0.0",
+  "description": "MORE WebApp Credential Search and Manage",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Russel Fernandes",
+  "license": "ISC"
+}
